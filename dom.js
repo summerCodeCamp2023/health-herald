@@ -1,0 +1,11 @@
+document.getElementById("faizah").innerHTML="Iremide";
+document.getElementsByTagName("h1")[1].innerHTML="Oyinkansola";
+document.getElementsByClassName("opeyemi")[0].innerHTML="Oluwashindara";
+//document.getElementById("img").src="gif.gif";
+//document.getElementById("ai").src="pinterest.jpeg";
+//document.getElementById("AI").src="corazones.jpeg";
+document.getElementById("dte").innerHTML= "The date and time is" + " " + Date();
+document.getElementById("h4").style.color="red";
+document.getElementById("p1").style.fontFamily="verdana";
+document.getElementById("p1").style.fontWeight="bolder";
+document.getElementById("p2").style.fontSize="55px";
